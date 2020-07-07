@@ -1,0 +1,4 @@
+Hugo_Symbol	Center	NCBI_Build	Chromosome	Start_Position	End_Position	Variant_Classification	Variant_Type	Reference_Allele	Tumor_Seq_Allele2	amino_acid_change	Tumor_Sample_Barcode
+AAA1	CenterA	hg19	chr1	10000000	11000000	Missense_Mutation	SNP	C	A	V536L	DS2D
+AAA2	CenterA	hg19	chr2	20000000	22000000	Missense_Mutation	SNP	G	A	R516H	DS1D
+AAA3	CenterA	hg19	chr3	30000000	33000000	Missense_Mutation	SNP	C	T	D31N	DS12D
